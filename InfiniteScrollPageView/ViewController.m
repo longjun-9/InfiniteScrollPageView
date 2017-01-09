@@ -2,8 +2,8 @@
 //  ViewController.m
 //  InfiniteScrollPageView
 //
-//  Created by vipabc on 2017/1/5.
-//  Copyright © 2017年 vipabc. All rights reserved.
+//  Created by Longjun on 2017/1/5.
+//  Copyright © 2017年 Longjun. All rights reserved.
 //
 
 #import "ViewController.h"

@@ -2,8 +2,8 @@
 //  PageContentView.m
 //  InfiniteScrollPageView
 //
-//  Created by vipabc on 2017/1/4.
-//  Copyright © 2017年 vipabc. All rights reserved.
+//  Created by Longjun on 2017/1/4.
+//  Copyright © 2017年 Longjun. All rights reserved.
 //
 
 #import "PageContentView.h"

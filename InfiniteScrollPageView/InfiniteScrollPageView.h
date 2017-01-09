@@ -2,8 +2,8 @@
 //  InfiniteScrollPageView.h
 //  InfiniteScrollPageView
 //
-//  Created by vipabc on 2016/12/29.
-//  Copyright © 2016年 vipabc. All rights reserved.
+//  Created by Longjun on 2016/12/29.
+//  Copyright © 2016年 Longjun. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
