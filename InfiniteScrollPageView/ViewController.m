@@ -40,6 +40,7 @@
         UILabel *label = [[UILabel alloc] init];
         label.backgroundColor = [UIColor whiteColor];
         label.translatesAutoresizingMaskIntoConstraints = NO;
+        label.textAlignment = NSTextAlignmentCenter;
         contentView.label = label;
         [contentView addSubview:label];
         NSDictionary *viewsDic = @{ @"label" : label };

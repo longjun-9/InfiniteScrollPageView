@@ -54,7 +54,6 @@ typedef NS_ENUM(NSUInteger, UIPanGestureRecognizerDirection) {
 - (UIView *)topView {
     if (!_topView) {
         _topView = [[PageView alloc] init];
-        _topView.backgroundColor = [UIColor greenColor];
     }
     return _topView;
 }
@@ -62,7 +61,6 @@ typedef NS_ENUM(NSUInteger, UIPanGestureRecognizerDirection) {
 - (UIView *)bottomView {
     if (!_bottomView) {
         _bottomView = [[PageView alloc] init];
-        _bottomView.backgroundColor = [UIColor redColor];
     }
     return _bottomView;
 }
