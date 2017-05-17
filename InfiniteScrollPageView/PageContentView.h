@@ -1,5 +1,3 @@
-
-
 //
 //  PageContentView.h
 //  InfiniteScrollPageView
